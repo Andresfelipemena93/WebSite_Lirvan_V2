@@ -10,11 +10,11 @@
 }
 
 .section.one {
-	background-image: url(../media/home/home.jpg);
+	background-image: url(../media/home/home2.jpg);
 }
 
 .section.two {
-	background-image: url(../media/2.avif);
+	background-image: url(../media/2.);
 }
 
 .section.three {
@@ -67,7 +67,7 @@
 }
 .section__content__subtitle3{
 	font-family: 'Lato', sans-serif;
-	padding-top: 23%;
+	padding-top: 2%;
 	font-size: 1.5em;
 	font-weight: 700;
 	color: rgb(9, 61, 158);
