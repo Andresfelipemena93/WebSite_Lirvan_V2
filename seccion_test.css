@@ -303,7 +303,7 @@ html {
    p+h6,
    ul+h6,
    ol+h6 {
-    margin-top:1.6em
+    margin-top:0.5em
    }
    .heading-collapsed+* {
     margin-top:0
@@ -7924,11 +7924,11 @@ html {
     }
    }
    .chapternav-item-macbook-air .chapternav-icon {
-    width:52px;
+    width:84px;
     height:54px;
-    background-size:52px 54px;
+    background-size:84px 54px;
     background-repeat:no-repeat;
-    background-image:url("/media/macbook_pro.svg")
+    background-image:url("/media/PRUEBA2.png")
    }
    html.no-svg .chapternav-item-macbook-air .chapternav-icon {
     background-image:url("/v/mac/home/bk/images/familybrowser/macbookair_light__f0o95rwae8ae_large.png")
@@ -7938,77 +7938,77 @@ html {
     height:54px;
     background-size:84px 54px;
     background-repeat:no-repeat;
-    background-image:url("/media/macbook_pro.svg")
+    background-image:url("/media/PRUEBA2.png")
    }
    html.no-svg .chapternav-item-macbook-pro .chapternav-icon {
     background-image:url("/v/mac/home/bk/images/familybrowser/macbook_pro__b9krsy4o6z5y_large.png")
    }
    .chapternav-item-imac .chapternav-icon {
-    width:80px;
+    width:84px;
     height:54px;
-    background-size:80px 54px;
+    background-size:84px 54px;
     background-repeat:no-repeat;
-    background-image:url("/media/macbook_pro.svg")
+    background-image:url("/media/PRUEBA2.png")
    }
    html.no-svg .chapternav-item-imac .chapternav-icon {
     background-image:url("/v/mac/home/bk/images/familybrowser/imac__7zx8uhaubma6_large.png")
    }
    .chapternav-item-mac-pro .chapternav-icon {
-    width:35px;
+    width:84px;
     height:54px;
-    background-size:35px 54px;
+    background-size:84px 54px;
     background-repeat:no-repeat;
-    background-image:url("/media/macbook_pro.svg")
+    background-image:url("/media/PRUEBA2.png")
    }
    html.no-svg .chapternav-item-mac-pro .chapternav-icon {
     background-image:url("/v/mac/home/bk/images/familybrowser/mac_pro_light__cj4dvg7thx5y_large.png")
    }
    .chapternav-item-mac-mini .chapternav-icon {
-    width:28px;
+    width:84px;
     height:54px;
-    background-size:28px 54px;
+    background-size:84px 54px;
     background-repeat:no-repeat;
-    background-image:url("/media/macbook_pro.svg")
+    background-image:url("/media/PRUEBA2.png")
    }
    html.no-svg .chapternav-item-mac-mini .chapternav-icon {
     background-image:url("/v/mac/home/bk/images/familybrowser/mac_mini_light__frtahmzmd4mm_large.png")
    }
    .chapternav-item-compare .chapternav-icon {
-    width:45px;
+    width:84px;
     height:54px;
-    background-size:45px 54px;
+    background-size:84px 54px;
     background-repeat:no-repeat;
-    background-image:url("/media/macbook_pro.svg")
+    background-image:url("/media/PRUEBA2.png")
    }
    html.no-svg .chapternav-item-compare .chapternav-icon {
     background-image:url("/v/mac/home/bk/images/familybrowser/mac_compare__ggkplbypx5yu_large.png")
    }
    .chapternav-item-accessories .chapternav-icon {
-    width:33px;
+    width:84px;
     height:54px;
-    background-size:33px 54px;
+    background-size:84px 54px;
     background-repeat:no-repeat;
-    background-image:url("/media/macbook_pro.svg")
+    background-image:url("/media/PRUEBA2.png")
    }
    html.no-svg .chapternav-item-accessories .chapternav-icon {
     background-image:url("/v/mac/home/bk/images/familybrowser/mac_accessories_light__cuds10wyptyu_large.png")
    }
    .chapternav-item-pro-display-xdr .chapternav-icon {
-    width:46px;
+    width:84px;
     height:54px;
-    background-size:46px 54px;
+    background-size:84px 54px;
     background-repeat:no-repeat;
-    background-image:url("/media/macbook_pro.svg")
+    background-image:url("/media/PRUEBA2.png")
    }
    html.no-svg .chapternav-item-pro-display-xdr .chapternav-icon {
     background-image:url("/v/mac/home/bk/images/familybrowser/mac_pro_display_light__e7nex6o52poy_large.png")
    }
    .chapternav-item-macos .chapternav-icon {
-    width:35px;
+    width:84px;
     height:54px;
-    background-size:35px 54px;
+    background-size:84px 54px;
     background-repeat:no-repeat;
-    background-image:url("/media/macbook_pro.svg")
+    background-image:url("/media/PRUEBA2.png")
    }
    html.no-svg .chapternav-item-macos .chapternav-icon {
     background-image:url("/v/mac/home/bk/images/familybrowser/mac_os__udjqv4ogm8ii_large.png")
@@ -11011,7 +11011,8 @@ html {
     z-index:-1
    }
    .section-hero-product .violator-frameless {
-    font-weight:600;
+    
+    font-weight:300;
     margin-bottom:0.3em;
     background:rgba(0,0,0,0);
     border-color:#0f073d;
